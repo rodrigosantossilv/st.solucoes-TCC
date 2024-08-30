@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "chart.js": "^4.4.4",
+    "maska": "^3.0.2",
+    "sweetalert2": "^11.12.4",
+    "v-mask": "^2.3.0",
+    "vue": "^3.4.29",
+    "vue-chartjs": "^5.3.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
@@ -17,11 +22,8 @@
   },
   "depeendencies": {
     "sweetalert2": "^11.4.22"
-
-},
-"d6pendencies": {
-  "vue-router": "^4.1.6"
-
-}
-
+  },
+  "d6pendencies": {
+    "vue-router": "^4.1.6"
+  }
 }
