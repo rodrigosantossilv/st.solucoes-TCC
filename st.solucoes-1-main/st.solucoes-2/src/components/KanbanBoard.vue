@@ -26,6 +26,9 @@
           <li class="nav-item">
             <a class="nav-link text-white" @click="mostrarCategoria('Concluído')" href="#">Concluídos</a>
           </li>
+           <li class="nav-item">
+            <a class="nav-link text-white" @click="mostrarCategoria('Historico')" href="#">Historico</a>
+          </li>
         </ul>
       </div>
 
